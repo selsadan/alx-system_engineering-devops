@@ -1,0 +1,4 @@
+i
+echo 'Hello, World'
+:wq
+
